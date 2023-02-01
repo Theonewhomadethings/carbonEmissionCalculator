@@ -4,7 +4,7 @@ Not tested. Still in development.
 
 Tech stack: HTML, CSS, JS, SQL
 
-Environmental preservation has garnered a great deal of attention in recent years. By creating a web app that calculates a building's carbon footprint, you can actively contribute to furthering the cause.
+Environmental preservation has garnered a great deal of attention in recent years.A web app that calculates a building's carbon footprint.
 
 This carbon calculator combines information on floor space and annual working days with user-selected or custom attributes on building types, water fixture types, climate zones, etc.
 
